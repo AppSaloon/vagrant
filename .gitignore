@@ -1,0 +1,6 @@
+# Yii Framework
+assets/
+protected/runtime/
+
+# Jetbrains
+.idea/

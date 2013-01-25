@@ -1,2 +1,1 @@
-vagrant
-=======
+Basic files for Vagrant setup
